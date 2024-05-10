@@ -1,4 +1,4 @@
-def registry = 'https://sk85.jfrog.io/'
+def registry = 'https://sk85.jfrog.io'
 //def imageName = 'sk85.jfrog.io/bsk-docker-local/ttrend'
 def version   = '2.1.3'
 
