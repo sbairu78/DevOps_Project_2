@@ -1,5 +1,5 @@
 def registry = 'https://sk85.jfrog.io'
-def imageName = 'sk85.jfrog.io/sk-docker-local/ttrend'
+def imageName = 'sk85.jfrog.io/sk-docker-docker-local/ttrend'
 def version   = '2.1.3'
 
 pipeline {
